@@ -1,4 +1,3 @@
-# ashishchaurasiya
 # Hi, I'm Ashish Chaurasiya 👋
 
 **Python Backend Engineer | Agentic AI Developer**
@@ -50,6 +49,7 @@ backend_stack = {
 |---------|-------------|------|
 | **Y Group MCP Gateway** | 113 MCP tools connecting Claude AI to business systems | FastAPI · MCP SDK · Redis · SAP |
 | **Toofan** | Offline-first delivery platform for 120+ field workers | NestJS · React Native · Gemini AI · RAG |
+| **Niroskos Safaris** | AI travel platform — Web3 payments, GPT-4, 40+ languages | Django 5.2 · OpenAI · Web3 · Typesense |
 | **Youngman Log MCP** | AI-powered ERP log analyzer via SSH | Node.js · MCP · WebSocket · React |
 | **Odoo 17 CRM** | Multi-company ERP with 57+ custom modules | Python · Odoo ORM · SAP HANA |
 | **Youngman Beta** | Django microservices (SAP HANA connector 4,858+ lines) | Django · DRF · Celery · PostgreSQL |
@@ -75,12 +75,18 @@ backend_stack = {
 
 ---
 
+## 📈 Experience at a Glance
 
-## 📈 GitHub Stats
+| | |
+|---|---|
+| 💼 Experience | 4+ Years |
+| 🐍 Python Projects | 8+ Production |
+| 🤖 AI / MCP Projects | 3 Production |
+| 🔗 Enterprise Integrations | 15+ |
+| 🧪 Tests Written | 207+ Unit Tests |
+| 📍 Location | Noida, India |
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishchaurasiyaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishchaurasiyaa&layout=compact&theme=tokyonight&hide_border=true)
+---
 
 ## 📫 Let's Connect
 
