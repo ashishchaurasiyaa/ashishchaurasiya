@@ -87,11 +87,17 @@ Senior Python Backend Engineer with **4+ years** of experience building enterpri
 
 ---
 
-## 📊 GitHub Stats
+## 📊 At a Glance
 
-![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishchaurasiyaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishchaurasiyaa&layout=compact&theme=tokyonight&hide_border=true)
-
+| Metric | Value |
+|--------|-------|
+| 💼 Experience | 4+ Years |
+| 🐍 Python Projects | 8+ Production |
+| 🤖 AI / MCP Projects | 3 Production |
+| 🔗 MCP Tools Built | 113 |
+| 📄 Invoices Processed/Month | 10,000+ |
+| 🧪 Unit Tests Written | 207+ |
+| 🔗 Enterprise Integrations | 15+ |
 ---
 
 ## 🔧 Enterprise Integrations
