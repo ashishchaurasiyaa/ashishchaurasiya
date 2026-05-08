@@ -2,8 +2,13 @@
 
 **Python Backend Engineer | Agentic AI Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashishkumarc-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ashishkumarc)
-[![Email](https://img.shields.io/badge/Email-chaurasiya1ashish@gmail.com-red?style=flat&logo=gmail)](mailto:chaurasiya1ashish@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashishkumarc-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishkumarc)
+[![Email](https://img.shields.io/badge/Gmail-chaurasiya1ashish@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chaurasiya1ashish@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-AshishtoChaurasiya-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/AshishtoChaurasiya/)
+
+---
+
+> *"Build systems that think, not just systems that run."*
 
 ---
 
@@ -11,35 +16,60 @@
 
 Senior Python Backend Engineer with **4+ years** of experience building enterprise-grade platforms — from monolithic ERPs to distributed microservices and **Agentic AI-powered systems**.
 
-Currently building production AI systems with **Anthropic MCP SDK**, **LangChain**, **RAG pipelines**, and **OpenAI GPT-4**.
+- 🤖 Building production AI systems with **Anthropic MCP SDK**, **LangChain**, **RAG pipelines**
+- 🔗 Built **113 MCP tools** connecting Claude AI to enterprise systems (SAP, Odoo, MySQL)
+- 📄 Processing **10,000+ invoices/month** via SAP HANA REST connector — 99% success rate
+- 📍 Based in Noida, India · Open to remote opportunities
 
 ---
 
 ## 🤖 Agentic AI Stack
 
-```python
-ai_stack = {
-    "frameworks":  ["LangChain", "LangGraph", "Anthropic MCP SDK"],
-    "models":      ["OpenAI GPT-4", "Google Gemini 2.0 Flash"],
-    "retrieval":   ["RAG Pipelines", "Vector Databases", "Typesense"],
-    "integrations":["113 MCP Tools", "Claude AI Gateway"],
-}
-```
+![Anthropic](https://img.shields.io/badge/Anthropic_MCP-191919?style=flat&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=flat&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_Databases-00D4AA?style=flat&logoColor=white)
 
 ---
 
-## ⚡ Backend Stack
+## ⚡ Tech Stack
 
-```python
-backend_stack = {
-    "languages":   ["Python", "TypeScript", "JavaScript"],
-    "frameworks":  ["Django", "FastAPI", "DRF", "NestJS", "Fastify"],
-    "async":       ["Celery", "RabbitMQ", "Redis", "AWS SQS"],
-    "databases":   ["PostgreSQL", "MySQL", "Redis", "PostGIS"],
-    "cloud":       ["AWS EC2", "S3", "RDS", "IAM", "SQS/SNS"],
-    "devops":      ["Docker", "Nginx", "Gunicorn", "GitHub Actions"],
-}
-```
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+**Frameworks**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat&logo=django&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**Databases & Cache**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white)
+
+**Async & Queue**
+
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/AWS_SQS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ---
 
@@ -57,14 +87,10 @@ backend_stack = {
 
 ---
 
-## 📊 What I've Built in Production
+## 📊 GitHub Stats
 
-- 🔗 **113 MCP tools** connecting Claude AI to enterprise systems (SAP, Odoo, MySQL)
-- 📄 **10,000+ invoices/month** via SAP HANA REST connector — 99% success rate
-- 📱 **120+ field workers** across 22 branches — offline-first mobile platform
-- ⚡ **60% query optimization** — Django ORM indexing & architecture
-- 🤖 **Gemini AI OCR** — E-way Bill failure rate reduced from 60% → 5%
-- 🌍 Multi-tenant travel platform — Web3/Crypto + M-Pesa payments
+![Ashish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishchaurasiyaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishchaurasiyaa&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -75,21 +101,7 @@ backend_stack = {
 
 ---
 
-## 📈 Experience at a Glance
-
-| | |
-|---|---|
-| 💼 Experience | 4+ Years |
-| 🐍 Python Projects | 8+ Production |
-| 🤖 AI / MCP Projects | 3 Production |
-| 🔗 Enterprise Integrations | 15+ |
-| 🧪 Tests Written | 207+ Unit Tests |
-| 📍 Location | Noida, India |
-
----
-
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/ashishkumarc)
-- 📧 chaurasiya1ashish@gmail.com
-- 📍 Noida, Uttar Pradesh, India
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ashishkumarc)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail)](mailto:chaurasiya1ashish@gmail.com)
